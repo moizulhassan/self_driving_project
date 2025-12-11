@@ -1,0 +1,11 @@
+
+numpy
+opencv-python
+torch>=2.0
+ultralytics   # YOLOv8
+scipy
+filterpy      # for Kalman filter (tracker)
+matplotlib
+tqdm
+pillow
+opencv-contrib-python
