@@ -1,0 +1,5 @@
+﻿train: data/images/train
+val: data/images/val
+
+nc: 4
+names: ['car', 'motorbike', 'bus', 'truck']
